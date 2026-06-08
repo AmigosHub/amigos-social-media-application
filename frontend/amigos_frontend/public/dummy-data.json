@@ -1,0 +1,1298 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Arjun Sharma",
+      "username": "arjun_sharma",
+      "email": "arjun@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+      "bio": "Travel blogger from Jaipur ✈️ | Exploring incredible India",
+      "followers": ["2", "3", "5", "7", "9"],
+      "following": ["2", "4", "6", "8", "10"],
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "fullName": "Priya Patel",
+      "username": "priya_patel",
+      "email": "priya@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+      "bio": "Food blogger 🍛 | Sharing authentic Gujarati recipes",
+      "followers": ["1", "3", "4", "6", "8"],
+      "following": ["1", "3", "5", "7", "9"],
+      "createdAt": "2024-01-10T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "fullName": "Rahul Verma",
+      "username": "rahul_verma",
+      "email": "rahul@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+      "bio": "Fitness trainer 💪 | Helping India get fit",
+      "followers": ["1", "4", "5", "9", "10"],
+      "following": ["1", "2", "6", "8", "10"],
+      "createdAt": "2024-01-05T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "fullName": "Neha Gupta",
+      "username": "neha_gupta",
+      "email": "neha@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+      "bio": "Fashion designer 👗 | Based in Mumbai",
+      "followers": ["2", "3", "6", "7", "8"],
+      "following": ["1", "2", "3", "5", "9"],
+      "createdAt": "2024-01-01T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "fullName": "Vikram Singh",
+      "username": "vikram_singh",
+      "email": "vikram@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+      "bio": "Photographer 📸 | Capturing India's beauty",
+      "followers": ["1", "3", "7", "9", "10"],
+      "following": ["2", "4", "6", "8"],
+      "createdAt": "2024-01-20T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "fullName": "Anjali Nair",
+      "username": "anjali_nair",
+      "email": "anjali@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/6.jpg",
+      "bio": "Tech reviewer 📱 | From Kerala",
+      "followers": ["2", "4", "8", "9"],
+      "following": ["1", "3", "5", "7", "10"],
+      "createdAt": "2024-01-25T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "fullName": "Rajesh Kumar",
+      "username": "rajesh_kumar",
+      "email": "rajesh@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/7.jpg",
+      "bio": "Travel vlogger ✈️ | Exploring India one state at a time",
+      "followers": ["1", "4", "6", "8", "10"],
+      "following": ["2", "3", "5", "9"],
+      "createdAt": "2024-01-30T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "fullName": "Divya Reddy",
+      "username": "divya_reddy",
+      "email": "divya@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/8.jpg",
+      "bio": "Classical dancer 💃 | Bharatanatyam artist",
+      "followers": ["2", "5", "6", "9"],
+      "following": ["1", "3", "4", "7", "10"],
+      "createdAt": "2024-02-01T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "fullName": "Amit Joshi",
+      "username": "amit_joshi",
+      "email": "amit@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/9.jpg",
+      "bio": "Food critic 🍜 | Exploring Indian cuisine",
+      "followers": ["1", "3", "5", "7", "8"],
+      "following": ["2", "4", "6", "10"],
+      "createdAt": "2024-02-05T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "fullName": "Kavita Malhotra",
+      "username": "kavita_malhotra",
+      "email": "kavita@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/10.jpg",
+      "bio": "Interior designer 🏠 | Transforming spaces",
+      "followers": ["3", "5", "7", "8", "9"],
+      "following": ["1", "2", "4", "6"],
+      "createdAt": "2024-02-10T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "fullName": "Suresh Iyer",
+      "username": "suresh_iyer",
+      "email": "suresh@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/11.jpg",
+      "bio": "Carnatic musician 🎵 | Keeping traditions alive",
+      "followers": ["12", "13", "14", "15"],
+      "following": ["12", "16", "17", "18"],
+      "createdAt": "2024-02-15T10:00:00Z"
+    },
+    {
+      "id": "12",
+      "fullName": "Meera Krishnan",
+      "username": "meera_krishnan",
+      "email": "meera@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+      "bio": "Yoga instructor 🧘‍♀️ | Wellness coach",
+      "followers": ["11", "13", "14", "16"],
+      "following": ["11", "15", "17", "18"],
+      "createdAt": "2024-02-20T10:00:00Z"
+    },
+    {
+      "id": "13",
+      "fullName": "Karthik Menon",
+      "username": "karthik_menon",
+      "email": "karthik@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/13.jpg",
+      "bio": "Wildlife photographer 🦁 | Saving Indian wildlife",
+      "followers": ["11", "12", "14", "15"],
+      "following": ["11", "16", "17", "18"],
+      "createdAt": "2024-02-25T10:00:00Z"
+    },
+    {
+      "id": "14",
+      "fullName": "Swati Choudhary",
+      "username": "swati_choudhary",
+      "email": "swati@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/14.jpg",
+      "bio": "Fashion influencer 👗 | From Kolkata",
+      "followers": ["11", "12", "13", "15"],
+      "following": ["12", "13", "16", "17"],
+      "createdAt": "2024-03-01T10:00:00Z"
+    },
+    {
+      "id": "15",
+      "fullName": "Manish Thakur",
+      "username": "manish_thakur",
+      "email": "manish@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/15.jpg",
+      "bio": "Mountain trekker ⛰️ | Himalayan explorer",
+      "followers": ["11", "12", "13", "14"],
+      "following": ["12", "13", "16", "17"],
+      "createdAt": "2024-03-05T10:00:00Z"
+    },
+    {
+      "id": "16",
+      "fullName": "Shreya Bansal",
+      "username": "shreya_bansal",
+      "email": "shreya@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/16.jpg",
+      "bio": "Makeup artist 💄 | Bridal makeup specialist",
+      "followers": ["11", "13", "15", "17"],
+      "following": ["12", "14", "18", "19"],
+      "createdAt": "2024-03-10T10:00:00Z"
+    },
+    {
+      "id": "17",
+      "fullName": "Pankaj Mishra",
+      "username": "pankaj_mishra",
+      "email": "pankaj@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/17.jpg",
+      "bio": "Startup founder 💼 | Tech entrepreneur",
+      "followers": ["12", "14", "16", "18"],
+      "following": ["11", "13", "15", "19"],
+      "createdAt": "2024-03-15T10:00:00Z"
+    },
+    {
+      "id": "18",
+      "fullName": "Ritu Kapoor",
+      "username": "ritu_kapoor",
+      "email": "ritu@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+      "bio": "Book reviewer 📚 | Literature lover",
+      "followers": ["11", "14", "16", "17"],
+      "following": ["12", "15", "19", "20"],
+      "createdAt": "2024-03-20T10:00:00Z"
+    },
+    {
+      "id": "19",
+      "fullName": "Alok Nath",
+      "username": "alok_nath",
+      "email": "alok@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/19.jpg",
+      "bio": "Stand-up comedian 🎤 | Making India laugh",
+      "followers": ["12", "15", "17", "18"],
+      "following": ["14", "16", "20", "21"],
+      "createdAt": "2024-03-25T10:00:00Z"
+    },
+    {
+      "id": "20",
+      "fullName": "Tanvi Shah",
+      "username": "tanvi_shah",
+      "email": "tanvi@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/20.jpg",
+      "bio": "Fitness enthusiast 💪 | Healthy living",
+      "followers": ["13", "16", "18", "19"],
+      "following": ["11", "15", "17", "21"],
+      "createdAt": "2024-03-30T10:00:00Z"
+    },
+    {
+      "id": "21",
+      "fullName": "Gaurav Sinha",
+      "username": "gaurav_sinha",
+      "email": "gaurav@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/21.jpg",
+      "bio": "Digital marketer 📊 | SEO expert",
+      "followers": ["14", "17", "19", "20"],
+      "following": ["12", "16", "18", "22"],
+      "createdAt": "2024-04-01T10:00:00Z"
+    },
+    {
+      "id": "22",
+      "fullName": "Pooja Rathore",
+      "username": "pooja_rathore",
+      "email": "pooja@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/22.jpg",
+      "bio": "Travel photographer 📸 | From Rajasthan",
+      "followers": ["15", "18", "20", "21"],
+      "following": ["13", "17", "19", "23"],
+      "createdAt": "2024-04-05T10:00:00Z"
+    },
+    {
+      "id": "23",
+      "fullName": "Nikhil Desai",
+      "username": "nikhil_desai",
+      "email": "nikhil@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/23.jpg",
+      "bio": "Architect 🏛️ | Building dreams",
+      "followers": ["16", "19", "21", "22"],
+      "following": ["14", "18", "20", "24"],
+      "createdAt": "2024-04-10T10:00:00Z"
+    },
+    {
+      "id": "24",
+      "fullName": "Karishma Mehta",
+      "username": "karishma_mehta",
+      "email": "karishma@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/24.jpg",
+      "bio": "Bollywood dancer 💃 | Choreographer",
+      "followers": ["17", "20", "22", "23"],
+      "following": ["15", "19", "21", "25"],
+      "createdAt": "2024-04-15T10:00:00Z"
+    },
+    {
+      "id": "25",
+      "fullName": "Harsh Vardhan",
+      "username": "harsh_vardhan",
+      "email": "harsh@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/25.jpg",
+      "bio": "Political analyst 📰 | Current affairs",
+      "followers": ["18", "21", "23", "24"],
+      "following": ["16", "20", "22", "26"],
+      "createdAt": "2024-04-20T10:00:00Z"
+    },
+    {
+      "id": "26",
+      "fullName": "Sakshi Jain",
+      "username": "sakshi_jain",
+      "email": "sakshi@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/26.jpg",
+      "bio": "Jewelry designer 💎 | Handcrafted pieces",
+      "followers": ["19", "22", "24", "25"],
+      "following": ["17", "21", "23", "27"],
+      "createdAt": "2024-04-25T10:00:00Z"
+    },
+    {
+      "id": "27",
+      "fullName": "Varun Khanna",
+      "username": "varun_khanna",
+      "email": "varun@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/27.jpg",
+      "bio": "Automobile enthusiast 🏎️ | Car reviewer",
+      "followers": ["20", "23", "25", "26"],
+      "following": ["18", "22", "24", "28"],
+      "createdAt": "2024-04-30T10:00:00Z"
+    },
+    {
+      "id": "28",
+      "fullName": "Isha Chatterjee",
+      "username": "isha_chatterjee",
+      "email": "isha@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+      "bio": "Bengali food blogger 🍚 | Macher jhol lover",
+      "followers": ["21", "24", "26", "27"],
+      "following": ["19", "23", "25", "29"],
+      "createdAt": "2024-05-01T10:00:00Z"
+    },
+    {
+      "id": "29",
+      "fullName": "Rohit Shetty",
+      "username": "rohit_shetty",
+      "email": "rohit@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/29.jpg",
+      "bio": "Film director 🎬 | Making movies",
+      "followers": ["22", "25", "27", "28"],
+      "following": ["20", "24", "26", "30"],
+      "createdAt": "2024-05-05T10:00:00Z"
+    },
+    {
+      "id": "30",
+      "fullName": "Aishwarya Rajan",
+      "username": "aishwarya_rajan",
+      "email": "aishwarya@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/30.jpg",
+      "bio": "South Indian actress 🎭 | Film industry",
+      "followers": ["23", "26", "28", "29"],
+      "following": ["21", "25", "27", "31"],
+      "createdAt": "2024-05-10T10:00:00Z"
+    },
+    {
+      "id": "31",
+      "fullName": "Deepak Choudhary",
+      "username": "deepak_choudhary",
+      "email": "deepak@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/31.jpg",
+      "bio": "Folk singer 🎵 | Rajasthani music",
+      "followers": ["24", "27", "29", "30"],
+      "following": ["22", "26", "28", "32"],
+      "createdAt": "2024-05-15T10:00:00Z"
+    },
+    {
+      "id": "32",
+      "fullName": "Nandini Menon",
+      "username": "nandini_menon",
+      "email": "nandini@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/32.jpg",
+      "bio": "Mohiniyattam dancer 💃 | Classical artist",
+      "followers": ["25", "28", "30", "31"],
+      "following": ["23", "27", "29", "33"],
+      "createdAt": "2024-05-20T10:00:00Z"
+    },
+    {
+      "id": "33",
+      "fullName": "Kunal Jha",
+      "username": "kunal_jha",
+      "email": "kunal@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/33.jpg",
+      "bio": "Bihari foodie 🍛 | Litti chokha lover",
+      "followers": ["26", "29", "31", "32"],
+      "following": ["24", "28", "30", "34"],
+      "createdAt": "2024-05-25T10:00:00Z"
+    },
+    {
+      "id": "34",
+      "fullName": "Shivani Saxena",
+      "username": "shivani_saxena",
+      "email": "shivani@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/34.jpg",
+      "bio": "Poet ✍️ | Shayari writer",
+      "followers": ["27", "30", "32", "33"],
+      "following": ["25", "29", "31", "35"],
+      "createdAt": "2024-05-30T10:00:00Z"
+    },
+    {
+      "id": "35",
+      "fullName": "Manoj Tiwari",
+      "username": "manoj_tiwari",
+      "email": "manoj@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/35.jpg",
+      "bio": "Bhojpuri actor 🎬 | Film star",
+      "followers": ["28", "31", "33", "34"],
+      "following": ["26", "30", "32", "36"],
+      "createdAt": "2024-06-01T10:00:00Z"
+    },
+    {
+      "id": "36",
+      "fullName": "Rashmi Bhardwaj",
+      "username": "rashmi_bhardwaj",
+      "email": "rashmi@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/36.jpg",
+      "bio": "Fitness model 💪 | Health influencer",
+      "followers": ["29", "32", "34", "35"],
+      "following": ["27", "31", "33", "37"],
+      "createdAt": "2024-06-05T10:00:00Z"
+    },
+    {
+      "id": "37",
+      "fullName": "Abhishek Bachchan",
+      "username": "abhishek_b",
+      "email": "abhishek@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/37.jpg",
+      "bio": "Cricket fanatic 🏏 | Sports analyst",
+      "followers": ["30", "33", "35", "36"],
+      "following": ["28", "32", "34", "38"],
+      "createdAt": "2024-06-10T10:00:00Z"
+    },
+    {
+      "id": "38",
+      "fullName": "Komal Pandey",
+      "username": "komal_pandey",
+      "email": "komal@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/38.jpg",
+      "bio": "Fashion vlogger 👗 | Style icon",
+      "followers": ["31", "34", "36", "37"],
+      "following": ["29", "33", "35", "39"],
+      "createdAt": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "39",
+      "fullName": "Vijay Deverakonda",
+      "username": "vijay_deverakonda",
+      "email": "vijay@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/39.jpg",
+      "bio": "Telugu actor 🎬 | Rowdy baby",
+      "followers": ["32", "35", "37", "38"],
+      "following": ["30", "34", "36", "40"],
+      "createdAt": "2024-06-20T10:00:00Z"
+    },
+    {
+      "id": "40",
+      "fullName": "Sanjana Sanghi",
+      "username": "sanjana_sanghi",
+      "email": "sanjana@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/40.jpg",
+      "bio": "Actress and traveler ✈️ | Bollywood",
+      "followers": ["33", "36", "38", "39"],
+      "following": ["31", "35", "37", "41"],
+      "createdAt": "2024-06-25T10:00:00Z"
+    },
+    {
+      "id": "41",
+      "fullName": "Rajkummar Rao",
+      "username": "rajkummar_rao",
+      "email": "rajkummar@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/41.jpg",
+      "bio": "Versatile actor 🎭 | Method acting",
+      "followers": ["34", "37", "39", "40"],
+      "following": ["32", "36", "38", "42"],
+      "createdAt": "2024-07-01T10:00:00Z"
+    },
+    {
+      "id": "42",
+      "fullName": "Kriti Sanon",
+      "username": "kriti_sanon",
+      "email": "kriti@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/42.jpg",
+      "bio": "Bollywood actress 🌟 | Fitness enthusiast",
+      "followers": ["35", "38", "40", "41"],
+      "following": ["33", "37", "39", "43"],
+      "createdAt": "2024-07-05T10:00:00Z"
+    },
+    {
+      "id": "43",
+      "fullName": "Ayushmann Khurrana",
+      "username": "ayushmann_k",
+      "email": "ayushmann@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/43.jpg",
+      "bio": "Actor & singer 🎵 | Content creator",
+      "followers": ["36", "39", "41", "42"],
+      "following": ["34", "38", "40", "44"],
+      "createdAt": "2024-07-10T10:00:00Z"
+    },
+    {
+      "id": "44",
+      "fullName": "Bhumi Pednekar",
+      "username": "bhumi_pednekar",
+      "email": "bhumi@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+      "bio": "Actress & environmentalist 🌱",
+      "followers": ["37", "40", "42", "43"],
+      "following": ["35", "39", "41", "45"],
+      "createdAt": "2024-07-15T10:00:00Z"
+    },
+    {
+      "id": "45",
+      "fullName": "Vicky Kaushal",
+      "username": "vicky_kaushal",
+      "email": "vicky@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/45.jpg",
+      "bio": "Bollywood actor 🎬 | National award winner",
+      "followers": ["38", "41", "43", "44"],
+      "following": ["36", "40", "42", "46"],
+      "createdAt": "2024-07-20T10:00:00Z"
+    },
+    {
+      "id": "46",
+      "fullName": "Alia Bhatt",
+      "username": "alia_bhatt",
+      "email": "alia@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/46.jpg",
+      "bio": "Actress & producer 🌟 | Bollywood queen",
+      "followers": ["39", "42", "44", "45"],
+      "following": ["37", "41", "43", "47"],
+      "createdAt": "2024-07-25T10:00:00Z"
+    },
+    {
+      "id": "47",
+      "fullName": "Ranveer Singh",
+      "username": "ranveer_singh",
+      "email": "ranveer@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/47.jpg",
+      "bio": "Bollywood superstar 🎭 | Energy personified",
+      "followers": ["40", "43", "45", "46"],
+      "following": ["38", "42", "44", "48"],
+      "createdAt": "2024-08-01T10:00:00Z"
+    },
+    {
+      "id": "48",
+      "fullName": "Deepika Padukone",
+      "username": "deepika_padukone",
+      "email": "deepika@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/48.jpg",
+      "bio": "Actress & entrepreneur 💼 | Mental health advocate",
+      "followers": ["41", "44", "46", "47"],
+      "following": ["39", "43", "45", "49"],
+      "createdAt": "2024-08-05T10:00:00Z"
+    },
+    {
+      "id": "49",
+      "fullName": "Shah Rukh Khan",
+      "username": "srk",
+      "email": "srk@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/men/49.jpg",
+      "bio": "King of Bollywood 👑 | Actor & producer",
+      "followers": ["42", "45", "47", "48"],
+      "following": ["40", "44", "46", "50"],
+      "createdAt": "2024-08-10T10:00:00Z"
+    },
+    {
+      "id": "50",
+      "fullName": "Priyanka Chopra",
+      "username": "priyanka_chopra",
+      "email": "priyanka@example.com",
+      "password": "password123",
+      "profileImageUrl": "https://randomuser.me/api/portraits/women/50.jpg",
+      "bio": "Global icon 🌍 | Actress & philanthropist",
+      "followers": ["43", "46", "48", "49"],
+      "following": ["41", "45", "47", "1"],
+      "createdAt": "2024-08-15T10:00:00Z"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": "1",
+      "imageUrl": "https://picsum.photos/id/1015/800/600",
+      "caption": "Beautiful sunrise at Jaipur's Amer Fort! 🏰 #Rajasthan #IncredibleIndia",
+      "likes": ["2", "3", "5", "7"],
+      "comments": [
+        {
+          "id": "c1",
+          "userId": "2",
+          "username": "priya_patel",
+          "userAvatar": "https://randomuser.me/api/portraits/women/2.jpg",
+          "text": "Stunning view! 😍",
+          "createdAt": "2024-01-20T12:00:00Z"
+        },
+        {
+          "id": "c2",
+          "userId": "3",
+          "username": "rahul_verma",
+          "userAvatar": "https://randomuser.me/api/portraits/men/3.jpg",
+          "text": "Adding this to my bucket list!",
+          "createdAt": "2024-01-20T13:00:00Z"
+        }
+      ],
+      "createdAt": "2024-01-20T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "imageUrl": "https://picsum.photos/id/106/800/600",
+      "caption": "Made authentic Gujarati Dhokla today! 🍽️ #GujaratiFood #HomeCooking",
+      "likes": ["1", "3", "4", "6", "8"],
+      "comments": [
+        {
+          "id": "c3",
+          "userId": "1",
+          "username": "arjun_sharma",
+          "userAvatar": "https://randomuser.me/api/portraits/men/1.jpg",
+          "text": "Looks delicious! Send me some 😋",
+          "createdAt": "2024-01-18T14:00:00Z"
+        }
+      ],
+      "createdAt": "2024-01-18T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "userId": "3",
+      "imageUrl": "https://picsum.photos/id/100/800/600",
+      "caption": "Morning workout at Marine Drive, Mumbai 💪 #Fitness #MumbaiLife",
+      "likes": ["1", "4", "5", "9"],
+      "comments": [],
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "userId": "4",
+      "imageUrl": "https://picsum.photos/id/101/800/600",
+      "caption": "New collection launch! Traditional meets modern 👗 #FashionDesigner",
+      "likes": ["2", "3", "6", "7"],
+      "comments": [
+        {
+          "id": "c4",
+          "userId": "2",
+          "username": "priya_patel",
+          "userAvatar": "https://randomuser.me/api/portraits/women/2.jpg",
+          "text": "Love the designs! ✨",
+          "createdAt": "2024-01-12T16:00:00Z"
+        }
+      ],
+      "createdAt": "2024-01-12T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "userId": "5",
+      "imageUrl": "https://picsum.photos/id/104/800/600",
+      "caption": "Backwaters of Kerala - God's own country 🌴 #KeralaTourism",
+      "likes": ["1", "3", "7", "9", "10"],
+      "comments": [
+        {
+          "id": "c5",
+          "userId": "6",
+          "username": "anjali_nair",
+          "userAvatar": "https://randomuser.me/api/portraits/women/6.jpg",
+          "text": "My home state! So beautiful 😍",
+          "createdAt": "2024-01-25T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-01-25T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "userId": "6",
+      "imageUrl": "https://picsum.photos/id/107/800/600",
+      "caption": "Unboxing the new iPhone! Tech review coming soon 📱 #TechReview",
+      "likes": ["2", "4", "8", "9"],
+      "comments": [],
+      "createdAt": "2024-01-28T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "userId": "7",
+      "imageUrl": "https://picsum.photos/id/108/800/600",
+      "caption": "Varanasi ghats at sunset - spiritual experience 🙏 #Banaras",
+      "likes": ["1", "4", "6", "8", "10"],
+      "comments": [
+        {
+          "id": "c6",
+          "userId": "9",
+          "username": "amit_joshi",
+          "userAvatar": "https://randomuser.me/api/portraits/men/9.jpg",
+          "text": "The vibes are unmatched!",
+          "createdAt": "2024-02-01T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-02-01T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "userId": "8",
+      "imageUrl": "https://picsum.photos/id/109/800/600",
+      "caption": "Bharatanatyam performance at Chennai Dance Festival 💃 #ClassicalDance",
+      "likes": ["2", "5", "6", "9"],
+      "comments": [],
+      "createdAt": "2024-02-05T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "userId": "9",
+      "imageUrl": "https://picsum.photos/id/110/800/600",
+      "caption": "Street food tour in Old Delhi - Chaat paradise! 🍛 #DelhiFood",
+      "likes": ["1", "3", "5", "7", "8"],
+      "comments": [
+        {
+          "id": "c7",
+          "userId": "2",
+          "username": "priya_patel",
+          "userAvatar": "https://randomuser.me/api/portraits/women/2.jpg",
+          "text": "Making me hungry! 🤤",
+          "createdAt": "2024-02-08T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-02-08T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "userId": "10",
+      "imageUrl": "https://picsum.photos/id/111/800/600",
+      "caption": "Modern living room design inspiration 🏠 #InteriorDesign",
+      "likes": ["3", "5", "7", "8", "9"],
+      "comments": [],
+      "createdAt": "2024-02-12T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "userId": "11",
+      "imageUrl": "https://picsum.photos/id/112/800/600",
+      "caption": "Carnatic music concert at Music Academy, Chennai 🎵 #IndianClassical",
+      "likes": ["12", "13", "14", "15"],
+      "comments": [
+        {
+          "id": "c8",
+          "userId": "12",
+          "username": "meera_krishnan",
+          "userAvatar": "https://randomuser.me/api/portraits/women/12.jpg",
+          "text": "Beautiful performance! 👏",
+          "createdAt": "2024-02-18T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-02-18T10:00:00Z"
+    },
+    {
+      "id": "12",
+      "userId": "12",
+      "imageUrl": "https://picsum.photos/id/113/800/600",
+      "caption": "Yoga at sunrise in Rishikesh 🧘‍♀️ #Wellness #Yoga",
+      "likes": ["11", "13", "14", "16"],
+      "comments": [],
+      "createdAt": "2024-02-22T10:00:00Z"
+    },
+    {
+      "id": "13",
+      "userId": "13",
+      "imageUrl": "https://picsum.photos/id/114/800/600",
+      "caption": "Tiger spotted at Ranthambore! 🐅 #WildlifePhotography",
+      "likes": ["11", "12", "14", "15"],
+      "comments": [
+        {
+          "id": "c9",
+          "userId": "15",
+          "username": "manish_thakur",
+          "userAvatar": "https://randomuser.me/api/portraits/men/15.jpg",
+          "text": "Majestic creature! 🙌",
+          "createdAt": "2024-02-28T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-02-28T10:00:00Z"
+    },
+    {
+      "id": "14",
+      "userId": "14",
+      "imageUrl": "https://picsum.photos/id/115/800/600",
+      "caption": "Kolkata's famous Durga Puja pandal 🎭 #CityOfJoy",
+      "likes": ["11", "12", "13", "15"],
+      "comments": [],
+      "createdAt": "2024-03-03T10:00:00Z"
+    },
+    {
+      "id": "15",
+      "userId": "15",
+      "imageUrl": "https://picsum.photos/id/116/800/600",
+      "caption": "Trekking in Himachal Himalayas ⛰️ #Adventure",
+      "likes": ["11", "12", "13", "14"],
+      "comments": [
+        {
+          "id": "c10",
+          "userId": "13",
+          "username": "karthik_menon",
+          "userAvatar": "https://randomuser.me/api/portraits/men/13.jpg",
+          "text": "Amazing view! Which peak is this?",
+          "createdAt": "2024-03-08T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-03-08T10:00:00Z"
+    },
+    {
+      "id": "16",
+      "userId": "16",
+      "imageUrl": "https://picsum.photos/id/117/800/600",
+      "caption": "Bridal makeup look for winter wedding 💄 #MakeupArtist",
+      "likes": ["11", "13", "15", "17"],
+      "comments": [],
+      "createdAt": "2024-03-12T10:00:00Z"
+    },
+    {
+      "id": "17",
+      "userId": "17",
+      "imageUrl": "https://picsum.photos/id/118/800/600",
+      "caption": "Startup pitch event in Bangalore 🚀 #TechStartup",
+      "likes": ["12", "14", "16", "18"],
+      "comments": [
+        {
+          "id": "c11",
+          "userId": "19",
+          "username": "alok_nath",
+          "userAvatar": "https://randomuser.me/api/portraits/men/19.jpg",
+          "text": "Great energy in the room!",
+          "createdAt": "2024-03-18T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-03-18T10:00:00Z"
+    },
+    {
+      "id": "18",
+      "userId": "18",
+      "imageUrl": "https://picsum.photos/id/119/800/600",
+      "caption": "Current read: 'The Guide' by R.K. Narayan 📚 #BookLover",
+      "likes": ["11", "14", "16", "17"],
+      "comments": [],
+      "createdAt": "2024-03-22T10:00:00Z"
+    },
+    {
+      "id": "19",
+      "userId": "19",
+      "imageUrl": "https://picsum.photos/id/120/800/600",
+      "caption": "Stand-up comedy show at Habitat, Delhi 🎤 #Laughter",
+      "likes": ["12", "15", "17", "18"],
+      "comments": [
+        {
+          "id": "c12",
+          "userId": "20",
+          "username": "tanvi_shah",
+          "userAvatar": "https://randomuser.me/api/portraits/women/20.jpg",
+          "text": "You're hilarious! 😂",
+          "createdAt": "2024-03-28T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-03-28T10:00:00Z"
+    },
+    {
+      "id": "20",
+      "userId": "20",
+      "imageUrl": "https://picsum.photos/id/121/800/600",
+      "caption": "Fitness transformation journey - 6 months progress 💪 #FitnessJourney",
+      "likes": ["13", "16", "18", "19"],
+      "comments": [],
+      "createdAt": "2024-04-02T10:00:00Z"
+    },
+    {
+      "id": "21",
+      "userId": "21",
+      "imageUrl": "https://picsum.photos/id/122/800/600",
+      "caption": "SEO workshop in Pune 📊 #DigitalMarketing",
+      "likes": ["14", "17", "19", "20"],
+      "comments": [
+        {
+          "id": "c13",
+          "userId": "22",
+          "username": "pooja_rathore",
+          "userAvatar": "https://randomuser.me/api/portraits/women/22.jpg",
+          "text": "Very informative session!",
+          "createdAt": "2024-04-08T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-04-08T10:00:00Z"
+    },
+    {
+      "id": "22",
+      "userId": "22",
+      "imageUrl": "https://picsum.photos/id/123/800/600",
+      "caption": "Sunset at Jaisalmer desert 🌅 #Rajasthan",
+      "likes": ["15", "18", "20", "21"],
+      "comments": [],
+      "createdAt": "2024-04-12T10:00:00Z"
+    },
+    {
+      "id": "23",
+      "userId": "23",
+      "imageUrl": "https://picsum.photos/id/124/800/600",
+      "caption": "Modern architecture in Ahmedabad 🏛️ #Architecture",
+      "likes": ["16", "19", "21", "22"],
+      "comments": [
+        {
+          "id": "c14",
+          "userId": "24",
+          "username": "karishma_mehta",
+          "userAvatar": "https://randomuser.me/api/portraits/women/24.jpg",
+          "text": "Stunning design!",
+          "createdAt": "2024-04-18T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-04-18T10:00:00Z"
+    },
+    {
+      "id": "24",
+      "userId": "24",
+      "imageUrl": "https://picsum.photos/id/125/800/600",
+      "caption": "Bollywood dance rehearsal 💃 #Dance",
+      "likes": ["17", "20", "22", "23"],
+      "comments": [],
+      "createdAt": "2024-04-22T10:00:00Z"
+    },
+    {
+      "id": "25",
+      "userId": "25",
+      "imageUrl": "https://picsum.photos/id/126/800/600",
+      "caption": "Political debate at India Today Conclave 🎤 #CurrentAffairs",
+      "likes": ["18", "21", "23", "24"],
+      "comments": [
+        {
+          "id": "c15",
+          "userId": "26",
+          "username": "sakshi_jain",
+          "userAvatar": "https://randomuser.me/api/portraits/women/26.jpg",
+          "text": "Important discussions!",
+          "createdAt": "2024-04-28T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-04-28T10:00:00Z"
+    },
+    {
+      "id": "26",
+      "userId": "26",
+      "imageUrl": "https://picsum.photos/id/127/800/600",
+      "caption": "Handcrafted silver jewelry collection 💎 #JewelryDesign",
+      "likes": ["19", "22", "24", "25"],
+      "comments": [],
+      "createdAt": "2024-05-02T10:00:00Z"
+    },
+    {
+      "id": "27",
+      "userId": "27",
+      "imageUrl": "https://picsum.photos/id/128/800/600",
+      "caption": "Test driving the new Mahindra Thar! 🏎️ #CarReview",
+      "likes": ["20", "23", "25", "26"],
+      "comments": [
+        {
+          "id": "c16",
+          "userId": "28",
+          "username": "isha_chatterjee",
+          "userAvatar": "https://randomuser.me/api/portraits/women/28.jpg",
+          "text": "Beast of a car!",
+          "createdAt": "2024-05-08T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-05-08T10:00:00Z"
+    },
+    {
+      "id": "28",
+      "userId": "28",
+      "imageUrl": "https://picsum.photos/id/129/800/600",
+      "caption": "Authentic Bengali fish curry - Macher Jhol 🍚 #BengaliFood",
+      "likes": ["21", "24", "26", "27"],
+      "comments": [],
+      "createdAt": "2024-05-12T10:00:00Z"
+    },
+    {
+      "id": "29",
+      "userId": "29",
+      "imageUrl": "https://picsum.photos/id/130/800/600",
+      "caption": "On the sets of my new film 🎬 #Director",
+      "likes": ["22", "25", "27", "28"],
+      "comments": [
+        {
+          "id": "c17",
+          "userId": "30",
+          "username": "aishwarya_rajan",
+          "userAvatar": "https://randomuser.me/api/portraits/women/30.jpg",
+          "text": "Excited for this project!",
+          "createdAt": "2024-05-18T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-05-18T10:00:00Z"
+    },
+    {
+      "id": "30",
+      "userId": "30",
+      "imageUrl": "https://picsum.photos/id/131/800/600",
+      "caption": "Shooting for upcoming Tamil film 🎭 #ActressLife",
+      "likes": ["23", "26", "28", "29"],
+      "comments": [],
+      "createdAt": "2024-05-22T10:00:00Z"
+    },
+    {
+      "id": "31",
+      "userId": "31",
+      "imageUrl": "https://picsum.photos/id/132/800/600",
+      "caption": "Rajasthani folk music performance 🎵 #FolkMusic",
+      "likes": ["24", "27", "29", "30"],
+      "comments": [
+        {
+          "id": "c18",
+          "userId": "32",
+          "username": "nandini_menon",
+          "userAvatar": "https://randomuser.me/api/portraits/women/32.jpg",
+          "text": "Beautiful vocals!",
+          "createdAt": "2024-05-28T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-05-28T10:00:00Z"
+    },
+    {
+      "id": "32",
+      "userId": "32",
+      "imageUrl": "https://picsum.photos/id/133/800/600",
+      "caption": "Mohiniyattam performance at Kochi 💃 #ClassicalDance",
+      "likes": ["25", "28", "30", "31"],
+      "comments": [],
+      "createdAt": "2024-06-02T10:00:00Z"
+    },
+    {
+      "id": "33",
+      "userId": "33",
+      "imageUrl": "https://picsum.photos/id/134/800/600",
+      "caption": "Best Litti Chokha in Patna! 🍛 #BihariFood",
+      "likes": ["26", "29", "31", "32"],
+      "comments": [
+        {
+          "id": "c19",
+          "userId": "34",
+          "username": "shivani_saxena",
+          "userAvatar": "https://randomuser.me/api/portraits/women/34.jpg",
+          "text": "Missing Bihari food now!",
+          "createdAt": "2024-06-08T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-06-08T10:00:00Z"
+    },
+    {
+      "id": "34",
+      "userId": "34",
+      "imageUrl": "https://picsum.photos/id/135/800/600",
+      "caption": "New poetry collection launch 📖 #Shayari",
+      "likes": ["27", "30", "32", "33"],
+      "comments": [],
+      "createdAt": "2024-06-12T10:00:00Z"
+    },
+    {
+      "id": "35",
+      "userId": "35",
+      "imageUrl": "https://picsum.photos/id/136/800/600",
+      "caption": "On the sets of Bhojpuri film 🎬 #BhojpuriCinema",
+      "likes": ["28", "31", "33", "34"],
+      "comments": [
+        {
+          "id": "c20",
+          "userId": "36",
+          "username": "rashmi_bhardwaj",
+          "userAvatar": "https://randomuser.me/api/portraits/women/36.jpg",
+          "text": "All the best!",
+          "createdAt": "2024-06-18T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-06-18T10:00:00Z"
+    },
+    {
+      "id": "36",
+      "userId": "36",
+      "imageUrl": "https://picsum.photos/id/137/800/600",
+      "caption": "Fitness shoot for magazine cover 💪 #FitnessModel",
+      "likes": ["29", "32", "34", "35"],
+      "comments": [],
+      "createdAt": "2024-06-22T10:00:00Z"
+    },
+    {
+      "id": "37",
+      "userId": "37",
+      "imageUrl": "https://picsum.photos/id/138/800/600",
+      "caption": "IPL match at Wankhede Stadium 🏏 #Cricket",
+      "likes": ["30", "33", "35", "36"],
+      "comments": [
+        {
+          "id": "c21",
+          "userId": "38",
+          "username": "komal_pandey",
+          "userAvatar": "https://randomuser.me/api/portraits/women/38.jpg",
+          "text": "What a match!",
+          "createdAt": "2024-06-28T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-06-28T10:00:00Z"
+    },
+    {
+      "id": "38",
+      "userId": "38",
+      "imageUrl": "https://picsum.photos/id/139/800/600",
+      "caption": "Fashion week look 👗 #StyleInspo",
+      "likes": ["31", "34", "36", "37"],
+      "comments": [],
+      "createdAt": "2024-07-02T10:00:00Z"
+    },
+    {
+      "id": "39",
+      "userId": "39",
+      "imageUrl": "https://picsum.photos/id/140/800/600",
+      "caption": "New movie announcement! Stay tuned 🎬 #TeluguCinema",
+      "likes": ["32", "35", "37", "38"],
+      "comments": [
+        {
+          "id": "c22",
+          "userId": "40",
+          "username": "sanjana_sanghi",
+          "userAvatar": "https://randomuser.me/api/portraits/women/40.jpg",
+          "text": "Congratulations!",
+          "createdAt": "2024-07-08T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-07-08T10:00:00Z"
+    },
+    {
+      "id": "40",
+      "userId": "40",
+      "imageUrl": "https://picsum.photos/id/141/800/600",
+      "caption": "Travel vlog from Goa 🌊 #BeachLife",
+      "likes": ["33", "36", "38", "39"],
+      "comments": [],
+      "createdAt": "2024-07-12T10:00:00Z"
+    },
+    {
+      "id": "41",
+      "userId": "41",
+      "imageUrl": "https://picsum.photos/id/142/800/600",
+      "caption": "Method acting workshop 🎭 #Acting",
+      "likes": ["34", "37", "39", "40"],
+      "comments": [
+        {
+          "id": "c23",
+          "userId": "42",
+          "username": "kriti_sanon",
+          "userAvatar": "https://randomuser.me/api/portraits/women/42.jpg",
+          "text": "Would love to attend!",
+          "createdAt": "2024-07-18T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-07-18T10:00:00Z"
+    },
+    {
+      "id": "42",
+      "userId": "42",
+      "imageUrl": "https://picsum.photos/id/143/800/600",
+      "caption": "Fitness routine for film prep 💪 #ActorLife",
+      "likes": ["35", "38", "40", "41"],
+      "comments": [],
+      "createdAt": "2024-07-22T10:00:00Z"
+    },
+    {
+      "id": "43",
+      "userId": "43",
+      "imageUrl": "https://picsum.photos/id/144/800/600",
+      "caption": "Music recording session 🎵 #Singer",
+      "likes": ["36", "39", "41", "42"],
+      "comments": [
+        {
+          "id": "c24",
+          "userId": "44",
+          "username": "bhumi_pednekar",
+          "userAvatar": "https://randomuser.me/api/portraits/women/44.jpg",
+          "text": "Can't wait to hear it!",
+          "createdAt": "2024-07-28T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-07-28T10:00:00Z"
+    },
+    {
+      "id": "44",
+      "userId": "44",
+      "imageUrl": "https://picsum.photos/id/145/800/600",
+      "caption": "Plantation drive in Mumbai 🌱 #ClimateAction",
+      "likes": ["37", "40", "42", "43"],
+      "comments": [],
+      "createdAt": "2024-08-02T10:00:00Z"
+    },
+    {
+      "id": "45",
+      "userId": "45",
+      "imageUrl": "https://picsum.photos/id/146/800/600",
+      "caption": "National Award ceremony 🏆 #Grateful",
+      "likes": ["38", "41", "43", "44"],
+      "comments": [
+        {
+          "id": "c25",
+          "userId": "46",
+          "username": "alia_bhatt",
+          "userAvatar": "https://randomuser.me/api/portraits/women/46.jpg",
+          "text": "So proud of you!",
+          "createdAt": "2024-08-08T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-08-08T10:00:00Z"
+    },
+    {
+      "id": "46",
+      "userId": "46",
+      "imageUrl": "https://picsum.photos/id/147/800/600",
+      "caption": "New production house launch 🎬 #Producer",
+      "likes": ["39", "42", "44", "45"],
+      "comments": [],
+      "createdAt": "2024-08-12T10:00:00Z"
+    },
+    {
+      "id": "47",
+      "userId": "47",
+      "imageUrl": "https://picsum.photos/id/148/800/600",
+      "caption": "Energy-packed performance at live show 🎭 #RanveerStyle",
+      "likes": ["40", "43", "45", "46"],
+      "comments": [
+        {
+          "id": "c26",
+          "userId": "48",
+          "username": "deepika_padukone",
+          "userAvatar": "https://randomuser.me/api/portraits/women/48.jpg",
+          "text": "You're on fire! 🔥",
+          "createdAt": "2024-08-18T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-08-18T10:00:00Z"
+    },
+    {
+      "id": "48",
+      "userId": "48",
+      "imageUrl": "https://picsum.photos/id/149/800/600",
+      "caption": "Mental health awareness session 🧠 #BreakTheStigma",
+      "likes": ["41", "44", "46", "47"],
+      "comments": [],
+      "createdAt": "2024-08-22T10:00:00Z"
+    },
+    {
+      "id": "49",
+      "userId": "49",
+      "imageUrl": "https://picsum.photos/id/150/800/600",
+      "caption": "Pathaan success party! 🎉 #KingKhan",
+      "likes": ["42", "45", "47", "48"],
+      "comments": [
+        {
+          "id": "c27",
+          "userId": "50",
+          "username": "priyanka_chopra",
+          "userAvatar": "https://randomuser.me/api/portraits/women/50.jpg",
+          "text": "Congratulations King! 👑",
+          "createdAt": "2024-08-28T10:00:00Z"
+        }
+      ],
+      "createdAt": "2024-08-28T10:00:00Z"
+    },
+    {
+      "id": "50",
+      "userId": "50",
+      "imageUrl": "https://picsum.photos/id/151/800/600",
+      "caption": "UNICEF event in Mumbai 🌍 #GlobalCitizen",
+      "likes": ["43", "46", "48", "49"],
+      "comments": [],
+      "createdAt": "2024-09-02T10:00:00Z"
+    }
+  ]
+}
