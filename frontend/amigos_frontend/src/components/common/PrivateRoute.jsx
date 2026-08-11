@@ -1,6 +1,7 @@
-// src/components/PrivateRoute.jsx
+
+// src/components/common/PrivateRoute.jsx
 import { Navigate } from 'react-router-dom'
-import { useAuth } from '../context/AuthContext'
+import { useAuth } from '../../context/AuthContext'
 
 const PrivateRoute = ({ children }) => {
   const { currentUser } = useAuth()
