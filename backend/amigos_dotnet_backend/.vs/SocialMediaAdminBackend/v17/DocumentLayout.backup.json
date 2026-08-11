@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\security\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:security\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\services\\implementations\\adminreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:services\\implementations\\adminreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\models\\dtos\\response\\reportstatisticsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:models\\dtos\\response\\reportstatisticsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\controllers\\adminreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:controllers\\adminreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\services\\interfaces\\iadminreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:services\\interfaces\\iadminreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\controllers\\adminanalyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:controllers\\adminanalyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\services\\interfaces\\iadminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:services\\interfaces\\iadminuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|c:\\users\\dell\\desktop\\amigos\\socialmediaadminbackend\\services\\interfaces\\iadmindashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B552A53C-F1BC-4411-9228-7CD19A43A74D}|SocialMediaAdminBackend.csproj|solutionrelative:services\\interfaces\\iadmindashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminAnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Controllers\\AdminAnalyticsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminAnalyticsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Controllers\\AdminAnalyticsController.cs",
+              "RelativeToolTip": "Controllers\\AdminAnalyticsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:56:01.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T18:42:00.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-04T18:39:26.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Security\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Security\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Security\\JwtHelper.cs",
+              "RelativeToolTip": "Security\\JwtHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T18:28:00.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-04T16:22:54.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-04T16:22:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportStatisticsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Models\\DTOs\\Response\\ReportStatisticsResponse.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Response\\ReportStatisticsResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Models\\DTOs\\Response\\ReportStatisticsResponse.cs",
+              "RelativeToolTip": "Models\\DTOs\\Response\\ReportStatisticsResponse.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T11:14:27.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminReportService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Services\\Implementations\\AdminReportService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\AdminReportService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Services\\Implementations\\AdminReportService.cs",
+              "RelativeToolTip": "Services\\Implementations\\AdminReportService.cs",
+              "ViewState": "AgIAALQEAAAAAAAAAAAswJ8FAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T10:15:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminReportController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Controllers\\AdminReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminReportController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Controllers\\AdminReportController.cs",
+              "RelativeToolTip": "Controllers\\AdminReportController.cs",
+              "ViewState": "AgIAAGgCAAAAAAAAAADwv38CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T10:13:52.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAAN0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:52:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAdminUserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Services\\Interfaces\\IAdminUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAdminUserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Services\\Interfaces\\IAdminUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAdminUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:52:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminReportService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Services\\Interfaces\\IAdminReportService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAdminReportService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Services\\Interfaces\\IAdminReportService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAdminReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:52:21.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAdminDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Services\\Interfaces\\IAdminDashboardService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAdminDashboardService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Amigos\\SocialMediaAdminBackend\\Services\\Interfaces\\IAdminDashboardService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAdminDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T15:52:18.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

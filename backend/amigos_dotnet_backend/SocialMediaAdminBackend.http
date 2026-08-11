@@ -1,0 +1,6 @@
+@SocialMediaAdminBackend_HostAddress = http://localhost:5044
+
+GET {{SocialMediaAdminBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
