@@ -1,0 +1,100 @@
+{
+  "info": {
+    "_postman_id": "amigos-ai-service-collection",
+    "name": "Amigos AI Microservice API",
+    "description": "Postman Collection for Amigos Generative AI Microservice endpoints.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check API",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/health",
+          "host": ["{{baseUrl}}"],
+          "path": ["health"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Generate AI Captions",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"topic\": \"Beach Vacation\",\n  \"tone\": \"Professional\",\n  \"language\": \"English\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/v1/caption",
+          "host": ["{{baseUrl}}"],
+          "path": ["api", "v1", "caption"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Moderate Comment",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"comment\": \"You are stupid.\"\n}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/v1/moderate",
+          "host": ["{{baseUrl}}"],
+          "path": ["api", "v1", "moderate"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get AI Analytics Metrics",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/v1/analytics",
+          "host": ["{{baseUrl}}"],
+          "path": ["api", "v1", "analytics"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get Flagged Comments",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/v1/flagged-comments",
+          "host": ["{{baseUrl}}"],
+          "path": ["api", "v1", "flagged-comments"]
+        }
+      },
+      "response": []
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:8000",
+      "type": "string"
+    }
+  ]
+}

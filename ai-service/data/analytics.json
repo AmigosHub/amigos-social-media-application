@@ -1,0 +1,51 @@
+{
+  "caption_count": 2,
+  "moderation_count": 7,
+  "flagged_comments": [
+    {
+      "id": "3e1773da-0425-4e39-a740-936b987faf6b",
+      "comment": "You are stupid.",
+      "confidence": 95,
+      "category": "Toxicity / Profanity",
+      "reason": "Comment contains inappropriate or profanity language ('stupid')",
+      "action": "BLOCK",
+      "timestamp": "2026-08-11T16:52:27.778225+00:00"
+    },
+    {
+      "id": "49e7a2d3-e3dd-4f8a-af5d-91147ab3300f",
+      "comment": "You are stupid and I hate you.",
+      "confidence": 95,
+      "category": "Toxicity / Profanity",
+      "reason": "Comment contains inappropriate or profanity language ('stupid')",
+      "action": "BLOCK",
+      "timestamp": "2026-08-11T16:52:30.732272+00:00"
+    },
+    {
+      "id": "ba45b122-9b5c-4c79-af1c-34a17cfa1f9f",
+      "comment": "You are stupid.",
+      "confidence": 95,
+      "category": "Toxicity / Profanity",
+      "reason": "Comment contains inappropriate or profanity language ('stupid')",
+      "action": "BLOCK",
+      "timestamp": "2026-08-11T16:52:45.811035+00:00"
+    },
+    {
+      "id": "354bad3f-421d-427b-b820-b3ba211a0fb8",
+      "comment": "You are stupid and I hate you.",
+      "confidence": 95,
+      "category": "Toxicity / Profanity",
+      "reason": "Comment contains inappropriate or profanity language ('stupid')",
+      "action": "BLOCK",
+      "timestamp": "2026-08-11T16:52:48.455107+00:00"
+    },
+    {
+      "id": "b5fc7db2-932f-4a3f-aa54-ab972d08af03",
+      "comment": "This post is total chutiya bakwas content.",
+      "confidence": 95,
+      "category": "Toxicity / Profanity",
+      "reason": "Comment contains inappropriate or profanity language ('chutiya')",
+      "action": "BLOCK",
+      "timestamp": "2026-08-11T16:52:48.482636+00:00"
+    }
+  ]
+}
