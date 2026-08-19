@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  ai-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: amigos-ai-service
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_NAME=AI Microservice
+      - APP_ENV=production
+      - PORT=8000
+      - DEBUG=false
+      - LOG_LEVEL=INFO
+      - ALLOWED_ORIGINS=["http://localhost:8080","http://localhost:5000"]
+      - INTERNAL_API_KEY=${INTERNAL_API_KEY:-secret-internal-api-key}
+      - LLM_PROVIDER=${LLM_PROVIDER:-groq}
+      - GROQ_API_KEY=${GROQ_API_KEY:-your_groq_api_key_here}
+      - GROQ_MODEL=${GROQ_MODEL:-llama-3.3-70b-versatile}
+      - GROQ_TIMEOUT_SECONDS=30
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_MODEL=gemini-2.5-flash
+      - GEMINI_TIMEOUT_SECONDS=30
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://localhost:8000/health')\" || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
