@@ -696,7 +696,6 @@ npm run build
 
 # 🔐 Environment Variables
 
-> ⚠️ **Never commit real passwords, JWT secrets, Cloudinary credentials, or database credentials to GitHub.**
 
 ## Java Backend
 
